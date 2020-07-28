@@ -1,0 +1,4 @@
+{
+  "discord_token": "",
+  "engine_url": "dialect[+driver]://user:password@host/dbname"
+}
